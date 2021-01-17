@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../sass/style.sass"
+	],
+	"sourcesContent": [
+		".reasons {\n    &_block {\n        display: block;\n        width: 115px;\n        height: 27px;\n        background-color: #000000; } }\n"
+	],
+	"names": [],
+	"mappings": ";AACK,AAAD,cAAO,CAAC;EACJ,OAAO,EAAE,KAAK;EACd,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,IAAI;EACZ,gBAAgB,EAAE,OAAO;CAAG"
+}
